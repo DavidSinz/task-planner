@@ -1,0 +1,39 @@
+
+/***** color **************************************************
+ *
+ *	Hier sind auschließlich Styles für Farben
+ *
+ *	Die Farben: #455C7B dunkel blau
+ *				#685C79 dunkel weinrot
+ *				#AC6C82 weinrot
+ *				#DA727E rot
+ *				#FFBC67 gelb
+ *				#FFDEB3 hell gelb
+ *				#FFFDFC blass gelb
+ *
+ */
+
+body { background-color: #FFFDFC; }
+h1, h2, h3, h4, h5 { color: #AC6C82; }
+nav { background-color: #455C7B; }
+
+#Aufgaben_edit-mode { background-color: rgba(255, 253, 252, 0.7); }
+#Aufgaben_edit-mode .btn { background-color: #AC6C82; }
+#Aufgaben_edit-mode .edit-mode-area { background-color: #685C79; }
+#Aufgaben_edit-mode .li-btn:hover { background-color: #DA727E; color: #FFFFFF; }
+
+#side-navigation .background { background-color: #685C79; }
+
+#Verwalten .plan_manager-list .active { background-color: #FFDEB3; }
+#Verwalten .active .active-icon { color: #FFFFFF; }
+#Verwalten .plan_manager-list span:first-child { color: #AC6C82; }
+#Verwalten .plan_mgr-default .card { background-color: #FFDEB3 }
+
+.large-add-btn, .btn { background-color: #AC6C82; }
+.large-add-btn:hover, .btn:hover { background-color: #DA727E; }
+
+.haekchen { color: #FFBC67; }
+.kreuzchen { color: #DA727E; }
+
+.small-del-btn, .btn { background-color: #685C79; }
+.small-del-btn:hover, .btn:hover { background-color: #AC6C82; }

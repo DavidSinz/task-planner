@@ -1,0 +1,1596 @@
+[
+   {
+      "start_date":"2017-09-19T11:08:22.928Z",
+      "date_str":"19.9.2017",
+      "id":0,
+      "length":"14",
+      "task_list":[
+         {
+            "date":"19.9.",
+            "id":0,
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"challenge.html verbessern",
+                  "completed":false
+               },
+               {
+                  "title":"Axure UE fertig",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Kinderpinguin",
+                  "completed":false
+               }
+            ]
+         },
+         {
+            "date":"20.9.",
+            "id":1,
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"MME Projekt anschauen",
+                  "completed":false
+               },
+               {
+                  "title":"Axure UE fertig",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Kinderpinguin",
+                  "completed":false
+               }
+            ]
+         },
+         {
+            "date":"21.9.",
+            "id":2,
+            "maintask":[
+               {
+                  "title":"Axure UE fertig",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Kinderpinguin",
+                  "completed":false
+               }
+            ]
+         },
+         {
+            "date":"22.9.",
+            "id":3,
+            "maintask":[
+               {
+                  "title":"Axure UE fertig",
+                  "completed":true
+               },
+               {
+                  "title":"Axure Projekt fertig",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"23.9.",
+            "id":4,
+            "maintask":[
+               {
+                  "title":"Aufgaben Pl neues tableView",
+                  "completed":true
+               },
+               {
+                  "title":"AP neuer tableController",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"24.9.",
+            "id":5,
+            "maintask":[
+               {
+                  "title":"Ap neues taskModel",
+                  "completed":true
+               },
+               {
+                  "title":"AP neuer editMode",
+                  "completed":true
+               },
+               {
+                  "title":"88kg wiegen",
+                  "completed":true
+               },
+               {
+                  "title":"Trainieren",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Kinderpinguin",
+                  "completed":true
+               }
+            ]
+         },
+         {
+            "date":"25.9.",
+            "id":6,
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"26.9.",
+            "id":7,
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"MME Responsive Design",
+                  "completed":true
+               },
+               {
+                  "title":"MME average grade",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"27.9.",
+            "id":8,
+            "maintask":[
+               {
+                  "title":"MME arbeiten",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"28.9.",
+            "id":9,
+            "maintask":[
+               {
+                  "title":"MME arbeiten",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"29.9.",
+            "id":10,
+            "maintask":[
+               {
+                  "title":"MME arbeiten",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"30.9.",
+            "id":11,
+            "maintask":[
+               {
+                  "title":"GrateMate MME abschließen",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Erdnüsse",
+                  "completed":true
+               }
+            ]
+         },
+         {
+            "date":"1.10.",
+            "id":12,
+            "maintask":[
+               {
+                  "title":"Views für Aufgaben Planner erstellen",
+                  "completed":false
+               },
+               {
+                  "title":"Einkaufen",
+                  "completed":false
+               },
+               {
+                  "title":"Trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"Rewag anschauen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "date":"2.10.",
+            "id":13,
+            "maintask":[
+               {
+                  "title":"Rewag anschauen",
+                  "completed":false
+               },
+               {
+                  "title":"Einkaufen",
+                  "completed":true
+               },
+               {
+                  "title":"Trainieren",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         }
+      ],
+      "goal":"1. Jeden Tag um 6 Uhr 7 Uhr aufstehen und um 1 Uhr spätestens schlafen gehen. \n\n2. Nach dem aufstehen wird eine halbstündige Sporteinheit absolviert. \n\n3. Im gesamten Zeitraum ist jeglicher Konsum von Alkohol verboten. \n\n4. Ich ernähre mich ausschließlich vegan und achte auf eine ausgewogene Ernährung. \n\n5. Am Ablaufdatum der Challenge muss ein Gewicht von 95 Kilo erreicht sein. \n\n6. Jeglicher Konsum von bewegten Bildern ist verboten, außer eine andere Person ist mit\nmir anwesend. \n\n7. Das Internet ist ausschließlich für die Recherche von Informationen zu verwenden, \nwelche mich in Arbeit, Studium oder Charakterbildung unterstützen. \n\n8. Am Ablaufdatum muss eine zweite Website von mir stehen, welche mindestens drei Artikel \nträgt. \n\n9. Des weiteren muss ich das Dunken mit dem Basketball beherrschen. \n\n10. NoFap täglich meditieren sobald ich keine Arbeit habe.\n\n11. Sobald ich irgendwie vom Weg abkomme, dann MUSS ich für 5 Minuten raus gehen und eine \nRunde um den Block drehen. ",
+      "reward":"",
+      "note":"",
+      "active":false
+   },
+   {
+      "start_date":"2017-10-04T08:10:35.740Z",
+      "date_str":"4.10.2017",
+      "id":1,
+      "length":"14",
+      "task_list":[
+         {
+            "id":0,
+            "date":"4.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":1,
+            "date":"5.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":2,
+            "date":"6.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":3,
+            "date":"7.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":4,
+            "date":"8.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ],
+            "undefined":[
+               {
+                  "title":"ghjg",
+                  "completed":false
+               }
+            ]
+         },
+         {
+            "id":5,
+            "date":"9.10",
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"Aufgaben Planner - PlanMgr zum funktionieren bringen",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Kinofilm 'It' mit Friederike im Mathäser",
+                  "completed":true
+               }
+            ]
+         },
+         {
+            "id":6,
+            "date":"10.10",
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"Aufgaben Planner Statistik-View erstellen",
+                  "completed":true
+               },
+               {
+                  "title":"AP - Active-Card View fertig",
+                  "completed":true
+               },
+               {
+                  "title":"AP - user-feedback",
+                  "completed":true
+               },
+               {
+                  "title":"AP - Code verbessert",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+               {
+                  "title":"Eine Folge Supernatural mit Mama schauen",
+                  "completed":true
+               }
+            ]
+         },
+         {
+            "id":7,
+            "date":"11.10",
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"Handgelenktraining",
+                  "completed":true
+               },
+               {
+                  "title":"Ventilator reparieren ",
+                  "completed":true
+               },
+               {
+                  "title":"Amazon Gutscheine einlösen",
+                  "completed":true
+               },
+               {
+                  "title":"AP - TaskChart fertig machen",
+                  "completed":true
+               },
+               {
+                  "title":"AP - Home View erstellen",
+                  "completed":false
+               },
+               {
+                  "title":"AP - Delete Plan im PlanMgr fertig machen",
+                  "completed":true
+               },
+               {
+                  "title":"89 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+               {
+                  "title":"Neues E-Mail Konto erstellen",
+                  "completed":false
+               },
+               {
+                  "title":"Amazon auf neuem E-Mail Konto anmelden",
+                  "completed":false
+               }
+            ],
+            "reward":[
+               {
+                  "title":"Mit Mama was anschauen",
+                  "completed":false
+               }
+            ]
+         },
+         {
+            "id":8,
+            "date":"12.10",
+            "maintask":[
+               {
+                  "title":"Trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"Handtraining",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":9,
+            "date":"13.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":10,
+            "date":"14.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":11,
+            "date":"15.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":12,
+            "date":"16.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":13,
+            "date":"17.10",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         }
+      ],
+      "goal":"1. 90 kg wiegen\n2. Aufgaben Planner fertig stellen\n3. Grundgerüst für neue Website haben\n4. Kein Alkohol trinken\n5. Nur Vegan ernähren\n6. Geige üben\n7. Jeden Tag trainieren nach dem aufstehen\n8. Einen Dunk schaffen\n9. Spielekonzept für App kreieren\n10. 10 Bewerbungen schreiben und abschicken\n11. Möglichst früh aufstehen (7 Uhr) und ca. 7 Stunden schlafen\n12. Keine Videos im Internet, außer ich bin in Gesellschaft",
+      "reward":"Ich darf einen Tag lang Youtube-Videos schauen und sonstige Aktivitäten im Internet machen. Ich darf eine Kischtasche essen und eine Breze mit Tomate, Salat, Salami und Käse und dann gibt es zu Abend Bratwurstsemmel.\n",
+      "note":"Immer positiv bleiben, ein Lächeln auf den Lippen haben und motiviert bleiben. Dann kann ich alles schaffen!",
+      "active":false
+   },
+   {
+      "start_date":"2017-11-06T09:42:16.960Z",
+      "date_str":"6.11.2017",
+      "id":2,
+      "length":"14",
+      "task_list":[
+         {
+            "id":0,
+            "date":"6.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":true
+               },
+               {
+                  "title":"training",
+                  "completed":true
+               },
+               {
+                  "title":"packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"88 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":1,
+            "date":"7.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":true
+               },
+               {
+                  "title":"trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"einkaufen",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":true
+               },
+               {
+                  "title":"packung haferflocken",
+                  "completed":false
+               },
+               {
+                  "title":"88 kg wiegen",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":2,
+            "date":"8.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":true
+               },
+               {
+                  "title":"packung haferflocken",
+                  "completed":false
+               },
+               {
+                  "title":"88,5 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":3,
+            "date":"9.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"Joggen",
+                  "completed":true
+               },
+               {
+                  "title":"trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"eine packung haferflocken essen",
+                  "completed":true
+               },
+               {
+                  "title":"88,5",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":4,
+            "date":"10.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"training",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"eine packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"88,5 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":5,
+            "date":"11.11",
+            "maintask":[
+               {
+                  "title":"7 uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"trainiern",
+                  "completed":false
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"eine packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"88,5 kg wiegen",
+                  "completed":false
+               },
+               {
+                  "title":"flex now anmelden für daten effizient speichern",
+                  "completed":false
+               },
+               {
+                  "title":"gez zahlen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":6,
+            "date":"12.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"training",
+                  "completed":false
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"halbe packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"89 kg wiegen",
+                  "completed":false
+               },
+               {
+                  "title":"gez zahlen",
+                  "completed":true
+               },
+               {
+                  "title":"flex now anmeldung",
+                  "completed":false
+               },
+               {
+                  "title":"Information Retrieval Worksheets machen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":7,
+            "date":"13.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":true
+               },
+               {
+                  "title":"training",
+                  "completed":false
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"1 pachung haferflocken",
+                  "completed":true
+               },
+               {
+                  "title":"89,5 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":8,
+            "date":"14.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"1 packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"89,5 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":9,
+            "date":"15.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"handtraining",
+                  "completed":true
+               },
+               {
+                  "title":"1 packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"89,5 kg wiegen",
+                  "completed":false
+               },
+               {
+                  "title":"saugen",
+                  "completed":true
+               },
+               {
+                  "title":"küche aufräumen",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":10,
+            "date":"16.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":false
+               },
+               {
+                  "title":"joggen",
+                  "completed":true
+               },
+               {
+                  "title":"trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"1 Packung Haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"89,5 wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":11,
+            "date":"17.11",
+            "maintask":[
+               {
+                  "title":"7 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"joggen",
+                  "completed":false
+               },
+               {
+                  "title":"trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"AP auf heroku deployn",
+                  "completed":true
+               },
+               {
+                  "title":"Datenbank auf Heroku installieren",
+                  "completed":true
+               },
+               {
+                  "title":"AP mit Datenbank verbinden",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":12,
+            "date":"18.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":13,
+            "date":"19.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         }
+      ],
+      "goal":"1. Täglich 7 Uhr aufstehen\n2. Täglich Handtraining, Joggen und Training\n3. Täglich eine Packung Haferflocken\n4. Ausschließlich Vegan ernähren\n5. Kein Alkohol\n6. 93 kg wiegen\n7. AP Prototyp auf Heroku deployn\n8. Website für Affiliate erstellen\n9. Android App anfangen zu erstellen\n10. Wenig Weizenprodukte essen\n11. Persönlichkeit entwickeln (frei definierbar)",
+      "reward":"Ein Wiener Schnitzel mit kartoffelartigem (pommes, crocketten usw), breze mit käse wurst und salat, kirschtasche, den ganzen tag youtubevideos schauen. Quasi darf ich alles machen",
+      "note":"Immer positiv bleiben und ein Lächeln auf den Lippen haben dann kann man alles schaffen. Außerdem sich definiert ausdrücken und wenig nuscheln. Also laute Stimme und Humor haben. ",
+      "active":false
+   },
+   {
+      "start_date":"2017-11-20T08:39:20.803Z",
+      "date_str":"20.11.2017",
+      "id":3,
+      "length":"14",
+      "task_list":[
+         {
+            "id":0,
+            "date":"20.11",
+            "maintask":[
+               {
+                  "title":"6 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"Trainieren",
+                  "completed":false
+               },
+               {
+                  "title":"Handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"AP Ajax Datenaustausch erstellen",
+                  "completed":false
+               },
+               {
+                  "title":"CSS (Computational Social Science): 2 Paper lesen",
+                  "completed":false
+               },
+               {
+                  "title":"Eine Packung Haferflocken essen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":1,
+            "date":"21.11",
+            "maintask":[
+               {
+                  "title":"6 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"Training",
+                  "completed":true
+               },
+               {
+                  "title":"CSS Paper lesen",
+                  "completed":false
+               },
+               {
+                  "title":"Eine Packung Haferflocken essen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":2,
+            "date":"22.11",
+            "maintask":[
+               {
+                  "title":"6 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"Joggen",
+                  "completed":true
+               },
+               {
+                  "title":"Packung Haferflocken essen",
+                  "completed":true
+               },
+               {
+                  "title":"CSS Paper lesen",
+                  "completed":false
+               },
+               {
+                  "title":"AP Datenaustausch erstellen",
+                  "completed":false
+               },
+               {
+                  "title":"90 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":3,
+            "date":"23.11",
+            "maintask":[
+               {
+                  "title":"6 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"trainieren",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":4,
+            "date":"24.11",
+            "maintask":[
+               {
+                  "title":"6 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"90 kg wiegen",
+                  "completed":true
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":5,
+            "date":"25.11",
+            "maintask":[
+               {
+                  "title":"6 uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"handtraining",
+                  "completed":false
+               },
+               {
+                  "title":"90,5 kg wiegen",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":6,
+            "date":"26.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":7,
+            "date":"27.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":8,
+            "date":"28.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":9,
+            "date":"29.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":10,
+            "date":"30.11",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":11,
+            "date":"1.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":12,
+            "date":"2.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":13,
+            "date":"3.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         }
+      ],
+      "goal":"1. 95 kg wiegen\n2. Aufgaben Planner auf öffentlicher Website hochladen\n3. Affiliat Website mit Shop veröffentlichen\n4. Täglich 6 Uhr aufstehen\n5. Täglich Sport machen (Training / Joggen / Handtraining)\n6. Vegan ernähren\n7. Kein Alkohol oder irgendwelche Drogen\n8. Jeden Tag eine Packung Haferflocken essen\n9. Keine Weizenprodukte \n10. Keine Medien wie Videos oder Soziale Netzwerke wenn keine zweite Person anwesend ist",
+      "reward":"Ich darf den ganzen Tag Videos schauen auf Youtube und sonst wo. Außerdem kann ich alles leckere Essen wonach mir ist. Zum Beispiel eine Quarktasche und so weiter. ",
+      "note":"Es ist wichtig dass ich immer positiv bleibe. Ein Lächeln auf den Lippen kann immer weiter helfen. Außerdem kann auch das Summen und Singen deine Stimmung aufhellen. Um alles zu erreichen muss ich meine Disziplin behalten bzw weiter ausbauen. Die ist momentan noch nicht genug vorhanden. Aber das wird besser, da bin ich mir sicher.",
+      "active":false
+   },
+   {
+      "start_date":"2017-12-04T21:31:15.583Z",
+      "date_str":"4.12.2017",
+      "id":4,
+      "length":"14",
+      "task_list":[
+         {
+            "id":0,
+            "date":"4.12",
+            "maintask":[
+               {
+                  "title":"6 Uhr aufstehen",
+                  "completed":true
+               },
+               {
+                  "title":"trainieren",
+                  "completed":true
+               },
+               {
+                  "title":"1 packung haferflocken essen",
+                  "completed":false
+               },
+               {
+                  "title":"datenbank fertig stellen für ap",
+                  "completed":false
+               }
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":1,
+            "date":"5.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":2,
+            "date":"6.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":3,
+            "date":"7.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":4,
+            "date":"8.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":5,
+            "date":"9.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":6,
+            "date":"10.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":7,
+            "date":"11.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":8,
+            "date":"12.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":9,
+            "date":"13.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":10,
+            "date":"14.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":11,
+            "date":"15.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":12,
+            "date":"16.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         },
+         {
+            "id":13,
+            "date":"17.12",
+            "maintask":[
+
+            ],
+            "additionaltask":[
+
+            ],
+            "reward":[
+
+            ]
+         }
+      ],
+      "goal":"1. 95 kg wiegen\n2. Aufgaben Planner auf öffentlicher Website hochladen\n3. Affiliat Website mit Shop veröffentlichen\n4. Täglich 6 Uhr aufstehen\n5. Täglich Sport machen (Training / Joggen / Handtraining)\n6. Vegan ernähren\n7. Kein Alkohol oder irgendwelche Drogen\n8. Jeden Tag eine Packung Haferflocken essen\n9. Keine Weizenprodukte \n10. Keine Medien wie Videos oder Soziale Netzwerke wenn keine zweite Person anwesend ist",
+      "reward":"Ich darf den ganzen Tag Videos schauen auf Youtube und sonst wo. Außerdem kann ich alles leckere Essen wonach mir ist. Zum Beispiel eine Quarktasche und so weiter.",
+      "note":"Es ist wichtig dass ich immer positiv bleibe. Ein Lächeln auf den Lippen kann immer weiter helfen. Außerdem kann auch das Summen und Singen deine Stimmung aufhellen. Um alles zu erreichen muss ich meine Disziplin behalten bzw weiter ausbauen. Die ist momentan noch nicht genug vorhanden. Aber das wird besser, da bin ich mir sicher.",
+      "active":true
+   }
+]

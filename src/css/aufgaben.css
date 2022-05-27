@@ -1,0 +1,155 @@
+
+/***** Aufgaben ***********************************************
+ *
+ *  Diese Datei ist für die styles von #Aufgaben und allen 
+ *  Kindelementen
+ *
+ */
+
+#Aufgaben {
+    position: relative;
+    padding-bottom: 3rem;
+}
+
+/***** Aufgaben_table-view ************************************
+ *
+ *  Alle Styles speziell für die Ansicht der Day-Challenge-
+ *  Tabelle
+ *
+ */
+
+#Aufgaben_table-view td {
+    position: relative;
+}
+
+#Aufgaben_table-view thead {
+    font-weight: bold;
+}
+
+#Aufgaben_table-view tr:hover .edit-button {
+    visibility: visible;
+    opacity: 1;
+}
+
+#Aufgaben_table-view .edit-button {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.1s linear;
+    position: absolute;
+    top: 0.2rem;
+    right: 0.2rem;
+}
+
+/***** Aufgaben_edit-mode *************************************
+ *
+ *  Alle Styles speziell für den Bearbeitungsmodus der 
+ *  Aufgaben-Tabelle.
+ *
+ */
+
+#Aufgaben_edit-mode {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	top: 0;
+	left: 0;
+    padding-top: 2rem;
+    overflow: auto;
+}
+
+#Aufgaben_edit-mode input {
+    border: none;
+    width: 75%;
+    height: 3rem;
+    padding: 0.7rem;
+    float: left;
+    font-size: 1.5em;
+}
+
+#Aufgaben_edit-mode ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 50px;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#Aufgaben_edit-mode ul li:hover {
+    background: #ddd;
+}
+
+#Aufgaben_edit-mode ul li:nth-child(odd) {
+    background: #f9f9f9;
+}
+
+#Aufgaben_edit-mode ul li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+
+/* Add a "checked" mark when clicked on */
+#Aufgaben_edit-mode ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 15px;
+    left: 25px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+}
+
+#Aufgaben_edit-mode .add-btn {
+    padding: 0.7rem;
+    width: 25%;
+    height: 3rem;
+    float: left;
+    font-size: 1em;
+    line-height: 1.1em;
+}
+
+#Aufgaben_edit-mode .input-area {
+    margin: 3rem 4rem;
+    text-align: center;
+}
+
+/* Clear floats after the header */
+#Aufgaben_edit-mode .input-area:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#Aufgaben_edit-mode .li-btn {
+    position: absolute;
+    height: 51px;
+    width: 51px;
+}
+
+#Aufgaben_edit-mode .li-btn i {
+    line-height: 51px;
+    margin: 0 13.5px;
+}
+
+#Aufgaben_edit-mode .list {
+    margin: 0 1rem;
+}
+
+#Aufgaben_edit-mode .safe-btn {
+	margin: 3rem 0 1rem 0;
+}
+
+#Aufgaben_edit-mode .close { right: 0; top: 0; }
+#Aufgaben_edit-mode .down { right: 51px; top: 0; }
+#Aufgaben_edit-mode .up { right: 102px; top: 0; }

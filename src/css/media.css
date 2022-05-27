@@ -1,0 +1,28 @@
+
+/***** medie **************************************************
+ *
+ *  Anpassungen an verschiedene Display-Größen
+ *
+ */
+
+@media screen and (min-width: 799px) {
+    
+#Aufgaben_edit-mode { padding: 2rem 7rem 0 7rem; }
+
+#Verwalten .plan_mgr-default .card {
+	margin: 2rem;
+	padding: 3rem;
+}
+
+}
+
+@media screen and (min-width: 1099px) {
+    
+#Aufgaben_edit-mode { padding: 2rem 16rem 0 16rem; }
+
+#Verwalten .plan_mgr-default .card {
+	margin: 4rem;
+	padding: 6rem;
+}
+
+}

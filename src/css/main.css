@@ -1,0 +1,89 @@
+
+* { box-sizing: border-box; }
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+#content { padding-top: 1rem; }
+
+#header .button-collapse { display: block; }
+
+.brand-logo { margin-right: 2rem; }
+
+.btn-tiny {
+    height: 1.5rem;
+    width: 1.5rem;
+    line-height: 1.5rem;
+}
+
+.btn-tiny > i {
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+.display-none {
+    display: none;
+}
+
+.side-nav .divider { margin: 0.5rem 0; }
+
+.user-feedback {
+	position: fixed;
+	top: 6rem;
+	left: 30%;
+	width: 40%;
+}
+
+.user-feedback .card-panel { padding: 3rem; }
+
+/***** Verwalten **********************************************
+ *
+ *  Styles für den Verwalten-View
+ *  
+ *
+ */
+
+#Verwalten .plan_manager-list .row > div {
+	padding-bottom: 2rem;
+}
+
+#Verwalten .plan_manager-list span {
+	display: block;
+	padding-bottom: 0.1rem;
+}
+
+#Verwalten .plan_manager-list span:first-child {
+	font-weight: bold;
+	font-size: 1.1em;
+	padding-bottom: 0.3rem;
+}
+
+#Verwalten .plan_manager-list .active {
+	background-image: url('C:/Users/Big-D/OneDrive/Aufgaben Planner/assets/img/checked.png');
+	background-position: 90% 50%;
+	background-repeat: no-repeat;
+	background-size: 7rem;
+}
+
+#Verwalten .plan_manager-list .section { position: relative; }
+
+#Verwalten .plan_manager-list .section:hover .small-del-btn {
+	visibility: visible;
+	opacity: 1;
+}
+
+#Verwalten .plan_manager-list .small-del-btn {
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s, opacity 0.2s linear;
+}
+
+#Verwalten .plan_mgr-default .card {
+	padding: 1rem;
+	line-height: 1.5em;
+}

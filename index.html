@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Aufgaben Planner</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="shortcut icon" href="assets/img/#" type="image/x-icon">
+	<link rel="icon" href="assets/img/#" type="image/x-icon">
+	
+	
+	<!--Import Google Icon Font-->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!--Import materialize.css-->
+	<link type="text/css" rel="stylesheet" href="assets/libs/materialize-v0.100.2/materialize/css/materialize.min.css"  media="screen,projection"/>
+	<!--Import custom stylesheet-->
+	<link rel="stylesheet" href="src/css/main.css">
+	<link rel="stylesheet" href="src/css/aufgaben.css">
+	<link rel="stylesheet" href="src/css/media.css">
+	<link rel="stylesheet" href="src/css/color.css">
+
+</head>
+
+
+<body>
+
+<!--Import JavaScript libraries-->
+<script src="assets/libs/jquery-3.2.1.min.js"></script>
+<script src="assets/libs/materialize-v0.100.2/materialize/js/materialize.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
+<div id="wrapper">
+
+<header id="header" class="navbar-fixed">
+	<nav id="nav" class="nav-wrapper">
+		<ul id="nav-mobile" class="left">
+        	<li><a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a></li>
+		</ul>
+		<div id="logo" class="brand-logo right">Aufgaben Planner</div>
+	</nav>
+</header>
+
+<div id="side-navigation">
+	<ul id="slide-out" class="side-nav">
+		<li>
+			<div class="user-view">
+				<div class="background"><img src=""></div>
+				<a href="#!user"><img class="circle" src="assets/img/default-user.png"></a>
+				<a href="#!name"><span class="white-text name">Max Mustermann</span></a>
+				<a href="#!email"><span class="white-text email">maxmustermann@gmail.com</span></a>
+			</div>
+		</li>
+		<!--<li><a class="subheader">Planen</a></li>-->
+		<li><a class="Aufgaben waves-effect"><i class="material-icons">event_note</i>Aufgaben</a></li>
+		<li><a class="Motivation waves-effect"><i class="material-icons">thumb_up</i>Motivation</a></li>
+		<li><a class="Statistiken waves-effect"><i class="material-icons">equalizer</i>Statistiken</a></li>
+		<li><a class="Verwalten waves-effect"><i class="material-icons">folder_open</i>Verwalten</a></li>
+		<li><div class="divider"></div></li>
+		<li><a class="Einstellungen waves-effect"><i class="material-icons">settings</i>Einstellungen</a></li>
+		<li><a class="Log-Out waves-effect"><i class="material-icons">exit_to_app</i>Log Out</a></li>
+	</ul>
+</div>
+
+<div id="content">
+
+	<div id="Aufgaben" class="container">
+		<div id="Aufgaben_table-view">
+			<table id="Aufgaben_table" class="table bordered highlight"></table>
+		</div>
+
+		<div id="Aufgaben_edit-mode" class="display-none">
+	    	<div class="edit-mode-area card-panel">
+				<div class="input-area z-depth-2">
+				  <input class="input browser-default" type="text" placeholder="Titel ...">
+				  <button class="add-btn btn waves-effect waves-light">hinzufügen</button>
+				</div>
+				<ul class="list z-depth-2">
+				</ul>
+				<div class="center-align">
+					<button class="safe-btn btn btn-large waves-effect waves-light z-depth-2">speichern</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="Motivation" class="display-none">
+		<div class="Motivation_panel card-panel"></div>
+		<div class="Motivation_panel card-panel"></div>
+		<div class="Motivation_panel card-panel"></div>
+	</div>
+
+	<div id="Statistiken" class="display-none">
+		<div class="row">
+			
+		</div>
+	</div>
+
+	<div id="Verwalten" class="display-none">
+		<div class="plan_manager-view">
+			<div class="plan_manager-list row display-none">
+
+			</div>
+			<div class="plan_mgr-default container">
+				<div class="card center-align">
+					<h4>Erstelle einen neuen Plan mit einem Klick auf den Plus-Button</h4>
+				</div>
+			</div>
+			<div class="plan_manager-add_plan fixed-action-btn">
+				<a class="large-add-btn btn-floating btn-large waves-effect waves-light pulse"><i class="large material-icons">add</i></a>
+			</div>
+			<div id="delete_plan" class="modal">
+				<div class="modal-content">
+					<h4>Todo-Liste löschen</h4>
+					<p>Bist du dir sicher, dass du den Aufgaben-Plan unwiderruflich löschen willst?</p>
+				</div>
+				<div class="modal-footer">
+					<a class="modal-action modal-close waves-effect waves-blue btn-flat">Abbrechen</a>
+					<a class="plan_manager-erase_plan modal-action modal-close waves-effect waves-blue btn-flat">Bestätigen</a>
+				</div>
+			</div>
+		</div>
+		<div class="plan_manager-edit container display-none">
+			<div class="input-area">
+				<form>
+					<div class="row">
+						<div class="input-field col s12 m6">
+							<input id="mgr-input_date" type="date" class="datepicker" placeholder="">
+							<label for="mgr-input_date">Startdatum</label>
+						</div>
+						<div class="input-field col s12 m6">
+							<input id="mgr-input_length" type="number" placeholder="">
+							<label for="mgr-input_length">Dauer in Tagen</label>
+						</div>
+						<div class="input-field col s12">
+							<textarea id="mgr-textarea_goal" class="materialize-textarea" placeholder=""></textarea>
+							<label for="mgr-textarea_goal">Ziele</label>
+						</div>
+						<div class="input-field col s12">
+							<textarea id="mgr-textarea_reward" class="materialize-textarea" placeholder=""></textarea>
+							<label for="mgr-textarea_reward">Belohnung</label>
+						</div>
+						<div class="input-field col s12">
+							<textarea id="mgr-textarea_note" class="materialize-textarea" placeholder=""></textarea>
+							<label for="mgr-textarea_note">Anmerkungen</label>
+						</div>
+						<div class="input-field col s12 center-align">
+							<div class="plan_manager-save_plan waves-effect waves-light btn waves-input-wrapper">ERSTELLEN</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+</div>
+
+<script src="vendors/EventTarget.js"></script>
+
+<script src="src/js/Classes/Plan.js"></script>
+<script src="src/js/Classes/Table.js"></script>
+<script src="src/js/Classes/EditTableData.js"></script>
+<script src="src/js/Classes/TaskChart.js"></script>
+
+<script src="src/js/AufgabenPlanner.js"></script>
+<script src="src/js/PlannerModel.js"></script>
+<script src="src/js/PlannerView.js"></script>
+<script src="src/js/PlannerController.js"></script>
+
+<script>
+  AufgabenPlanner.init();
+</script>
+
+</body>
+</html> 
